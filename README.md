@@ -7,6 +7,8 @@ displace.nvim is a Neovim plugin that enhances window navigation by displaying o
 - Displays window numbers in the center of each window in the current tab.
 - Allows window selection by pressing the corresponding number key.
 
+[demo.webm](https://github.com/user-attachments/assets/797c82b7-a914-4c5b-9d90-5cbd04ab31d5)
+
 ## Installation
 
 To install displace.nvim, you can use any Neovim plugin manager. Here are some examples:
